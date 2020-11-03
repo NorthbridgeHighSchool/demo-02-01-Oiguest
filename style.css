@@ -1,0 +1,10 @@
+img {
+  max-width: 300px;
+  float: right;
+}
+.odd {
+  float: right;
+}
+.even {
+  float: left;
+}
