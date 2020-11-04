@@ -2,9 +2,14 @@ img {
   max-width: 300px;
   float: right;
 }
+p{
+  text-align: justify;
+}
 .odd {
   float: right;
+  margin-left: 15px;
 }
 .even {
   float: left;
+  margin-right: 15px;
 }
